@@ -1,7 +1,7 @@
 # GDIM 33 In-Class Activities
 ## W1
 ### Activity 1
-[Google Paint](https://docs.google.com/drawings/d/122QOKK0hZIUno_Q0jJ_vcVixD7VN3SM41nLzGfHJDic/edit)
+[Google Paint1](https://docs.google.com/drawings/d/122QOKK0hZIUno_Q0jJ_vcVixD7VN3SM41nLzGfHJDic/edit)
    
 1. I chose the card battle type of games, where players fight against NPCs and eventually defeat them. Players can use different cards to perform various actions, such as attacking, defending, etc. I was interested in games like Slay the Spire and Clash Royale and referred to them.
  
@@ -11,7 +11,7 @@
 
 
 ### Activity 2
-[Google Paint](https://docs.google.com/drawings/d/122QOKK0hZIUno_Q0jJ_vcVixD7VN3SM41nLzGfHJDic/edit)
+[Google Paint2](https://docs.google.com/drawings/d/122QOKK0hZIUno_Q0jJ_vcVixD7VN3SM41nLzGfHJDic/edit)
 
 
 ## W2

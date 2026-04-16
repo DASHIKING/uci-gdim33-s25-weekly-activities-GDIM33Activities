@@ -15,7 +15,7 @@
 
 
 
-## W2
+## W3
+### Activity 1
+<img width="999" height="1204" alt="e158ed0930c9061902ab9a4f8f10f14f" src="https://github.com/user-attachments/assets/475d1c60-3d56-4de0-a95f-e94c9c710b4a" />
 
-
-Continue adding additional headers below this one for future weeks and future activities.

@@ -17,5 +17,6 @@
 
 ## W3
 ### Activity 1
-<img width="999" height="1204" alt="e158ed0930c9061902ab9a4f8f10f14f" src="https://github.com/user-attachments/assets/475d1c60-3d56-4de0-a95f-e94c9c710b4a" />
+<img width="1440" height="1652" alt="image" src="https://github.com/user-attachments/assets/6a55fe2e-7407-4de9-bdcd-28b93bb08569" />
+
 

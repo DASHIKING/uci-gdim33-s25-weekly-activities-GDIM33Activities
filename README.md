@@ -16,5 +16,6 @@
 
 
 ## W2
-### Activity 2
-<img width="849" height="1024" alt="image" src="https://github.com/user-attachments/assets/d8cff4bf-6dd8-4d41-8ee9-fa56151bf60a" />
+### Activity 1
+<img width="999" height="1204" alt="e158ed0930c9061902ab9a4f8f10f14f" src="https://github.com/user-attachments/assets/475d1c60-3d56-4de0-a95f-e94c9c710b4a" />
+

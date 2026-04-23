@@ -29,3 +29,13 @@
  3. Yes. In my Vertical Slice 3D or interactive games, when players are exploring, I need to lock the mouse (Locked) to control the perspective; but when players open menus or dialog boxes, I must release the mouse (None) otherwise players won't be able to click the UI buttons. Controlling the state of the mouse well can greatly enhance the gaming experience.
 
  4. Very relevant. My game also needs to distinguish different modes, such as "combat mode", "exploration mode", or "pause mode". Using game states (Game State) enables the game to run different logic at different stages (for example, pausing enemy movement during dialogue), which makes the overall logic management of the project very clear.
+
+
+## W4
+### Activity 1
+
+1. Goals: My playable build now includes movement using the WASD keys, and there is also a flashlight function. Players can use the flashlight to see the scene in front of them clearly. I also designed the environment of the game, which consisted of a room with a floor, a ceiling and several walls. Players can move around inside and use the flashlight to observe the corridors and rooms. My playtesting goals are to figure out what I need to do next and how I should modify my game environment.
+
+2. Names: OKADA Naoma, Thomas Sun, Beiduo Jin
+
+3. Notes: The environment is a bit dizziness. The lighting is too dim. It should be adjust later. In addition, more rooms can be added.

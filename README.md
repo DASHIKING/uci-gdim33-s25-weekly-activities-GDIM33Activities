@@ -47,3 +47,6 @@
 2. There are no strict limitations. As long as the computer's memory and hard disk space are sufficient, the writer can create hundreds or even thousands of nodes to build a vast story network. The only actual limitation might come from the UI level, where buttons might extend beyond the screen boundaries. However, this is a limitation in visual design rather than a limitation of the dialogue system itself.
 
 3. The "Regenerate Nodes" button functions much like a "mirror" for Visual Scripting, allowing it to re-scan all the code within the project. This is because when you add new variables (such as visual effect prefabs) in the C# script, the Visual Scripting node library does not automatically update in real-time. By clicking this button, the system is forced to refresh the node list, converting the changes we made in the code into searchable and usable visual nodes.
+
+4. <img width="775" height="467" alt="image" src="https://github.com/user-attachments/assets/ccd60248-f648-47c3-b4aa-6d2657880f64" />
+

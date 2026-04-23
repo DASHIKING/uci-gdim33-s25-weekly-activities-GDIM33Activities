@@ -38,4 +38,4 @@
 
 2. OKADA Naoma, Thomas Sun, Beiduo Jin
 
-3. The environment is a bit dizziness. The lighting is too dim. It should be adjust later. In addition, more rooms can be added.
+3. The environment is a bit giddy. The lighting is too dim. It should be adjust later. In addition, more rooms can be added.

@@ -39,3 +39,11 @@
 2. OKADA Naoma, Thomas Sun, Beiduo Jin
 
 3. The environment is a bit giddy. The lighting is too dim. It should be adjust later. In addition, more rooms can be added.
+
+### Activity 2
+
+1. Under the current system settings, writers can easily add more dialogues without writing any code. This is because all the dialogue content, response options, and the logic for their transitions are stored in a ScriptableObject (i.e., the DialogueNodeW4 file). Writers only need to create a new file in the Unity editor by right-clicking, and inputting text and dragging connections between different nodes as if filling out a form. The system can automatically recognize and generate new content based on the logic we have written.
+
+2. There are no strict limitations. As long as the computer's memory and hard disk space are sufficient, the writer can create hundreds or even thousands of nodes to build a vast story network. The only actual limitation might come from the UI level, where buttons might extend beyond the screen boundaries. However, this is a limitation in visual design rather than a limitation of the dialogue system itself.
+
+3. The "Regenerate Nodes" button functions much like a "mirror" for Visual Scripting, allowing it to re-scan all the code within the project. This is because when you add new variables (such as visual effect prefabs) in the C# script, the Visual Scripting node library does not automatically update in real-time. By clicking this button, the system is forced to refresh the node list, converting the changes we made in the code into searchable and usable visual nodes.

@@ -16,5 +16,5 @@ MonoBehaviour:
   ReplyOptions:
   - line: Say that you love her
     nextNode: {fileID: 11400000, guid: 76bdc80afdda4a948bf22fd0e5ef0782, type: 2}
-  VisualFlairPrefab: {fileID: 919132149155446097, guid: 38b52787cded4469590a23afb904c446,
+  VisualFlairPrefab: {fileID: 7833463171696160981, guid: 567ef03070d364127ae4a23a8541f7c1,
     type: 3}

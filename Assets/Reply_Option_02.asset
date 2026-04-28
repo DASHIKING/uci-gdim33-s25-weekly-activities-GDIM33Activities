@@ -14,4 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Line: fuck you!
   ReplyOptions: []
-  VisualFlairPrefab: {fileID: 0}
+  VisualFlairPrefab: {fileID: 7833463171696160981, guid: 567ef03070d364127ae4a23a8541f7c1,
+    type: 3}

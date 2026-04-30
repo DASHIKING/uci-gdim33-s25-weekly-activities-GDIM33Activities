@@ -53,7 +53,7 @@
 ## W5
 ### Activity 1
 
-   1. Step 1: Data Architecture (Least Complex)
+1. Step 1: Data Architecture (Least Complex)
 The goal is to create the "container" for our information so the game has a place to pull data from.
 
 Substep 1: Create a C# script named InstructionData.cs that inherits from ScriptableObject.
@@ -64,7 +64,7 @@ Substep 3: Create a new Asset in the Project window using this script (e.g., "Le
 
 Test: Select the asset in the Inspector; if you can see and edit the "Title" and "Content" fields, this step is working.
 
-   2. Step 2: Logic and Data Retrieval (Medium Complex)
+2. Step 2: Logic and Data Retrieval (Medium Complex)
 The goal is to make the Player "aware" of the data and prove we can access it via code.
 
 Substep 1: In the Player’s Script Machine, create an Object variable named currentData to hold the ScriptableObject.
@@ -77,36 +77,7 @@ Substep 4: Connect the output of "Get Title" to a "Debug Log" node.
 
 Test: Run the game; if the console prints the correct title from your asset, the data bridge is successful.
 
-   3. Here is the rewritten Activity 1: Task Break-down for your Devlog, specifically tailored to the Unity ScriptableObject system you are building.
-
-Activity 1: Task Break-down
-Feature Goal: Create a modular UI instruction system where game data (Title and Content) is pulled from a ScriptableObject and displayed on the screen.
-
-Step 1: Data Architecture (Least Complex)
-The goal is to create the "container" for our information so the game has a place to pull data from.
-
-Substep 1: Create a C# script named InstructionData.cs that inherits from ScriptableObject.
-
-Substep 2: Define two public string variables: title and content.
-
-Substep 3: Create a new Asset in the Project window using this script (e.g., "Level1_Book") and type in sample text.
-
-Test: Select the asset in the Inspector; if you can see and edit the "Title" and "Content" fields, this step is working.
-
-Step 2: Logic and Data Retrieval (Medium Complex)
-The goal is to make the Player "aware" of the data and prove we can access it via code.
-
-Substep 1: In the Player’s Script Machine, create an Object variable named currentData to hold the ScriptableObject.
-
-Substep 2: Regenerate nodes in Project Settings so Visual Scripting can "see" the new C# variables.
-
-Substep 3: Use a "Get Variable" node for currentData and connect it to a "Get Title" node.
-
-Substep 4: Connect the output of "Get Title" to a "Debug Log" node.
-
-Test: Run the game; if the console prints the correct title from your asset, the data bridge is successful.
-
-Step 3: UI Integration and Display (Most Complex)
+3. Step 3: UI Integration and Display (Most Complex)
 The goal is to push the retrieved data onto the actual game UI for the player to see.
 
 Substep 1: Create Scene variables for the Title and Content TextMeshPro objects in the Blackboard.
@@ -118,6 +89,7 @@ Substep 3: Connect the execution flow (green arrows) from the start event throug
 Substep 4: Troubleshoot the "Missing Target" error by verifying the Set Text node matches the UGUI component type.
 
 Test: Run the game; if the UI panel on screen updates to show your custom "Title" and "Content," the feature is complete.
+
 
 ### Activity 2 
 

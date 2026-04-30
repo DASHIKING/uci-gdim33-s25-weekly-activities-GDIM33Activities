@@ -75,7 +75,7 @@ Substep 3: Use a "Get Variable" node for currentData and connect it to a "Get Ti
 
 Substep 4: Connect the output of "Get Title" to a "Debug Log" node.
 
-Test: Run the game; if the console prints the correct title from your asset, the data bridge is successful.
+Test: Run the game; if the console prints the correct title from the asset, the data bridge is successful.
 
 3. Step 3: UI Integration and Display (Most Complex)
 The goal is to push the retrieved data onto the actual game UI for the player to see.
@@ -88,8 +88,7 @@ Substep 3: Connect the execution flow (green arrows) from the start event throug
 
 Substep 4: Troubleshoot the "Missing Target" error by verifying the Set Text node matches the UGUI component type.
 
-Test: Run the game; if the UI panel on screen updates to show your custom "Title" and "Content," the feature is complete.
-
+Test: Run the game; if the UI panel on screen updates to show the custom "Title" and "Content," the feature is complete.
 
 ### Activity 2 
 
